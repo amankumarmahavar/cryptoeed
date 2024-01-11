@@ -37,7 +37,7 @@ This app allows you to check the latest prices and trends of various cryptocurre
   flutter run
 ```
 ## Screenshots
-<img src="https://github.com/amankumarmahavar/snake/blob/main/ss/cryptoeed1.jpg" width="49%"/> <img src="https://github.com/amankumarmahavar/snake/blob/main/ss/cryptoeed2.jpg" width="49%"/> 
+<img src="https://github.com/amankumarmahavar/cryptoeed/blob/main/ss/cryptoeed1.jpg" width="49%"/> <img src="https://github.com/amankumarmahavar/cryptoeed/blob/main/ss/cryptoeed2.jpg" width="49%"/> 
 
 ## Authors
 
